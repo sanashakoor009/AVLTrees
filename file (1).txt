@@ -1,0 +1,27 @@
+ID Name Quantity
+-5	abc 	89
+123	AMD RAM	75
+245	K RAM	47
+11	Mouse	12
+9	keyboard	2
+3	CPU	14
+612	AMD RAM	75
+625	K RAM	47
+621	Mouse	12
+619	keyboard	2
+613	CPU	14
+623	AMD RAM	75
+645	K RAM	47
+115	Mouse	12
+933	keyboard	2
+3	CPU	14
+186	AMD RAM	75
+278	K RAM	47
+198	Mouse	12
+144	keyboard	2
+143	CPU	14
+113	AMD RAM	75
+215	K RAM	47
+111	Mouse	12
+911	keyboard	2
+311	CPU	14
